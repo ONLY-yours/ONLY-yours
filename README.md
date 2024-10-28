@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-This is a blue boy SiniJi
+i am ?
 
+- a web3 rookies
+- meme coin lover
+- blockchain student
+- frontend developer
 
+#### Tips
 
 - 🔭 Just a FrontEnd Rookies
-- 📫 you can find me in: onlyyoulove3@gmail.com 、Wechat：onlyyoulove3
-- ⚡ Fans of EVA
+- 📫 you can find me in:
+  - Gmail: [onlyyoulove3](onlyyoulove3@gmail.com)
+  - Wechat：onlyyoulove3
+  - x: [Siniji_U](https://x.com/@Siniji_U)
+- ⚡ Fans of eva
+
 
 
 
