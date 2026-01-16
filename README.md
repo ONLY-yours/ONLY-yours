@@ -9,16 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=2000&pause=500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%E2%96%88%E2%96%88+SYSTEM+BOOT+SEQUENCE+%E2%96%88%E2%96%88;%3E_+Initializing+Shinji-Li...;%3E_+Loading+AI+Modules...;%3E_+Status%3A+READY+TO+CODE+%E2%9C%93" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- 🌟 GitHub Stats - 暗色主题 -->
-<img src="https://github-readme-stats.vercel.app/api?username=ONLY-yours&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=6e7681&text_color=6e7681&ring_color=8b949e&include_all_commits=true&custom_title=%E3%80%8C+SYSTEM+STATUS+%E3%80%8D" alt="GitHub Stats" />
-
-<br/>
-
-<!-- 🎯 Streak 统计 - 暗色主题 -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ONLY-yours&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=6E7681&currStreakNum=8B949E&sideNums=6E7681&dates=484f58&stroke=21262d" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -164,58 +154,15 @@ music       = Synthwave | Vaporwave | Lo-fi
    ╰──────────────────────────────────────────────────────────────╯
 ```
 
+| Project | Stars | Description |
+|:--------|:-----:|:------------|
+| [🤯 **lobe-chat**](https://github.com/lobehub/lobe-chat) | ![](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square&color=6e7681&labelColor=0d1117) | AI Agent Workspace - Open-source ChatGPT/Claude UI |
+| [🍭 **lobe-ui**](https://github.com/lobehub/lobe-ui) | ![](https://img.shields.io/github/stars/lobehub/lobe-ui?style=flat-square&color=6e7681&labelColor=0d1117) | AIGC UI Component Library for React |
+| [🥨 **lobe-icons**](https://github.com/lobehub/lobe-icons) | ![](https://img.shields.io/github/stars/lobehub/lobe-icons?style=flat-square&color=6e7681&labelColor=0d1117) | AI/LLM Brand SVG Icons for React |
+| [🧸 **lobe-vidol**](https://github.com/lobehub/lobe-vidol) | ![](https://img.shields.io/github/stars/lobehub/lobe-vidol?style=flat-square&color=6e7681&labelColor=0d1117) | Virtual Idols Accessible for Everyone |
+| [🪀 **lobe-cli-toolbox**](https://github.com/lobehub/lobe-cli-toolbox) | ![](https://img.shields.io/github/stars/lobehub/lobe-cli-toolbox?style=flat-square&color=6e7681&labelColor=0d1117) | AI CLI Toolbox for Git & i18n |
+
 </div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<h3 align="center">🤯 Lobe Chat</h3>
-<p align="center">
-  <a href="https://github.com/lobehub/lobe-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobehub&repo=lobe-chat&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=6e7681&text_color=6e7681" alt="lobe-chat"/>
-  </a>
-</p>
-<p align="center"><sub><strong>AI Agent Workspace with 70k+ ⭐</strong></sub></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🍭 Lobe UI</h3>
-<p align="center">
-  <a href="https://github.com/lobehub/lobe-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobehub&repo=lobe-ui&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=6e7681&text_color=6e7681" alt="lobe-ui"/>
-  </a>
-</p>
-<p align="center"><sub><strong>AIGC UI Component Library</strong></sub></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🥨 Lobe Icons</h3>
-<p align="center">
-  <a href="https://github.com/lobehub/lobe-icons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobehub&repo=lobe-icons&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=6e7681&text_color=6e7681" alt="lobe-icons"/>
-  </a>
-</p>
-<p align="center"><sub><strong>AI/LLM Brand Icons for React</strong></sub></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧸 Lobe Vidol</h3>
-<p align="center">
-  <a href="https://github.com/lobehub/lobe-vidol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lobehub&repo=lobe-vidol&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&icon_color=6e7681&text_color=6e7681" alt="lobe-vidol"/>
-  </a>
-</p>
-<p align="center"><sub><strong>Virtual Idols for Everyone</strong></sub></p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -224,7 +171,11 @@ music       = Synthwave | Vaporwave | Lo-fi
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ONLY-yours&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e7681&point=8b949e&area=true&area_color=21262d" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ONLY-yours&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e7681&point=8b949e&area=true&area_color=21262d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ONLY-yours&theme=github-light&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ONLY-yours&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e7681&point=8b949e&area=true&area_color=21262d" />
+</picture>
 
 </div>
 
