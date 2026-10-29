@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/eva-banner.gif" width="100%" alt="EVA Unit-01, 1-bit pixel art" />
+<img src="./assets/eye.gif" width="100%" alt="Rei's eye, dithered pixel art" />
 
 </div>
 
