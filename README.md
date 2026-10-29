@@ -4,7 +4,10 @@
 
 </div>
 
-### Hi, I'm Shinji-Li
+### Hi, I'm LiJian（礼检）
+
+**礼** — courtesy, the manners I try to bring to people and to code.<br />
+**检** — reflection, as in 吾日三省吾身: *"each day I examine myself three times."*
 
 Core developer at [@lobehub](https://github.com/lobehub), previously at Ant Group. Based in Hangzhou.
 
